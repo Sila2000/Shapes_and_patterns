@@ -1,3 +1,5 @@
+#author Sila2000
+
 row = int(input("Enter the number of rows: "))
 character = input("Enter the character: ")
 
